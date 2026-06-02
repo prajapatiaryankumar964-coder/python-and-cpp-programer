@@ -1,0 +1,6 @@
+age=int(input("enter your age:"))
+print("\n your total months=",age*12)
+print("\n your total weeks=",age*52)
+print("\n your total days=",age*365)
+print("\n your total minuts=",age*8760)
+print("\n your total seconds=",age*525600)
