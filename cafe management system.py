@@ -3,12 +3,12 @@ menu = {
     'Burger': 80,
     'Salad': 40,
     'Coffe': 25,
-    'Sihab': 0.2,
+    'French fries': 150,
 }
 
 print("Welcome to our Restaurant, Here is our menu")
 print("")
-print("Pizza: 120\nBurger: 80\nSalad: 40\nCoffe: 25")
+print("Pizza: 120\nBurger: 80\nSalad: 40\nCoffe: 25\nFrench fries:150")
 
 Order1 = input("What do you want to order? : ").title()
 
